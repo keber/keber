@@ -39,8 +39,6 @@ My first's steps in tech where at 11 yo breaking and fixing my dad's 386 DX2 mon
 
 [![Keber Flores StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=999500)](https://stackoverflow.com/users/999500/keber)
 
-<a href="https://stackoverflow.com/users/999500/keber"><img src="https://stackoverflow.com/users/flair/999500.png" width="208" height="58" alt="profile for Keber at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Keber at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ###
 
 <br clear="both">
