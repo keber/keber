@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! I'm Keber . 🇨🇱 </h2>
 
+![Profile views](https://komarev.com/ghpvc/?username=andressep95&label=Profile%20Views&color=0e75b6&style=flat)
+
 My first's steps in tech where at 11 yo breaking and fixing my dad's 386 DX2 monochrome PC with DOS 6.22, QBASIC and Win3.11 . Since then, I've managed to learn, use and forget different software, systems, tools and technologies including: DOS 6.22, Win 95, Win 98, Win NT, Win 2000, Win 2003, Win XP, Win 2008, Win 2012, Win 7, Win 2016, Win 10, Win 11, Debian, Fedora, CentOS, Ubuntu, FreeBSD, vsphere/vmware, TCP/IP, Networking; Programming languages like clipper, cobol, visual basic, C, assembler, php, perl, C++, C#, ASP, Java, Python, js, html, css; Versioning tools inculding SVN, GIT, github, bitbucket; documentation languages like LaTeX, Markdown; Linux tools like bash, awk, ssh; Cloud platforms like Cloudflare, Azure and AWS including services like IAM, Identity Center, EC2, S3, Lambda, Route53, SES; DevOps tools and platforms including Jenkins, Gthub Actions, Terraform, Ansible, Docker; Data storage and manipulation including SQL, ETL, Hadoop; Data Analysis and Data Science; Testing including automation with Selenium, Playwright, TestNG.
 
 ###
